@@ -3,7 +3,7 @@
   Author: Jose A Garcia -  12/19/19 Version 1.0
  
   Purpose: The Purpose of this program is to introuduce the topic of Dynamic Progamming.
-  This progam will compute the correct output BUT in O(n^2). This took about 5 hrs to code.
+  This progam will compute the correct output BUT in O(n^2).
  
   Learned: I learned the process of backtracking and how long it takes to compute, EX: i had input
   the "hardest Sodoku puzzle" and I got no answer. At first i stopped the code and looked for potential errors.
